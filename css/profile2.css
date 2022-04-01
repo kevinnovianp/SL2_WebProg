@@ -1,0 +1,11 @@
+#edit{
+    font-size: 12pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 25px;
+    background-color: #C6ED99;
+    border-radius: 5px 5px 5px;
+    border: 2px solid black;
+}
